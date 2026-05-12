@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: aicli
+Version: 0.1.0
+Summary: Local terminal AI powered by Ollama
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: license-file
